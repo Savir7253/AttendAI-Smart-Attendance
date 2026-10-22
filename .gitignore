@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+venv/
+.env
+data/students.json
+data/students/*
+data/attendance/*
+!data/students/.gitkeep
+!data/attendance/.gitkeep
